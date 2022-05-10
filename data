@@ -1,0 +1,58 @@
+<html>
+<head>
+<title></title>
+</head>
+
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+		#body{
+		margin:100px;
+		border:10px solid BLACK;
+		padding:5px;
+		}
+</style>
+
+<body bgcolor="PINK">
+<FORM>
+<h1 ><FONT COLOR="RED" >REGISTRATION FORM </FONT></H1>
+		<p id="body"> FIRST NAME:-<input type="text" maxlength=20 size=25 name="t1">
+         <BR>
+		 <BR>
+
+        LAST NAME:-<input type="text" maxlength=20 size=25 name="t2">
+         
+		 
+<BR>
+<BR>
+
+        DOB:-<input type="date" >
+         
+		 <BR>
+		 <BR>
+
+		 PASSWORD:-<input type="password"  name="t2">
+         
+		 <BR>
+		 <BR>
+
+		 GENDER:-<input type="radio" maxlength=20 size=25 name="gender" value="boy">Boy
+		          <input type="radio" maxlength=20 size=25 name="gender" value="girl">Girl
+         
+		 <BR>
+		 <BR>
+
+		 LANGUAGE:-
+		 <br>
+		 <BR>
+
+		 ADDRESS:-<textarea cols="40%" rows="4%" >
+		 <BR><BR>
+
+		 CONTACT NO:-
+
+		 HOBBIES:-<input type="checkbox" maxlength=20 size=25 name="hobbies" value="drawing"> drawing
+
+</p>
+</FORM>
+</body>
+</html>
